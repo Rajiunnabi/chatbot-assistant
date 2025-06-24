@@ -2,9 +2,7 @@
 
 This is a modern AI chatbot featuring real-time conversations and responsive design.
 
-[![Chatbot Screenshot](https://github.com/Rajiunnabi/chatbot-assistant/blob/867ed0d9f1fe54ace07f7524606936c45cd4c55e/Screenshot%202025-06-24%20101843.png)](https://github.com/Rajiunnabi/chatbot-assistant/blob/7e55c021a6d261adc490e884cdf1ee32fdc4ce2a/Screenshot%202025-06-24%20133233.png)
-
-
+[Screenshot 2025-06-24 133233.png](https://github.com/Rajiunnabi/chatbot-assistant/blob/db7c1b4ef7626e7f9ee5685f84304ef133e0d673/Screenshot%202025-06-24%20133233.png)
 ## 🚀 Getting Started
 
 First, run the development server:
