@@ -4,7 +4,7 @@
 
 This is a modern AI chatbot featuring real-time conversations and responsive design.
 
-![Chatbot Screenshot]([./public/screenshot.png](https://github.com/Rajiunnabi/chatbot-assistant/blob/867ed0d9f1fe54ace07f7524606936c45cd4c55e/Screenshot%202025-06-24%20101843.png))
+![Chatbot Screenshot](https://github.com/Rajiunnabi/chatbot-assistant/blob/867ed0d9f1fe54ace07f7524606936c45cd4c55e/Screenshot%202025-06-24%20101843.png)
 
 
 ## Getting Started
