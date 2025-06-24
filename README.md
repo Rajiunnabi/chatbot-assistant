@@ -1,6 +1,11 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# 🤖 Next.js Chatbot Assitant
 
-## Getting Started
+This is a modern AI chatbot featuring real-time conversations and responsive design.
+
+![Chatbot Screenshot](https://github.com/Rajiunnabi/chatbot-assistant/blob/867ed0d9f1fe54ace07f7524606936c45cd4c55e/Screenshot%202025-06-24%20101843.png)
+
+
+## 🚀 Getting Started
 
 First, run the development server:
 
