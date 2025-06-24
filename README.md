@@ -1,7 +1,5 @@
 # 🤖 Next.js Chatbot Assitant
 
-[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https%3A%2F%2Fgithub.com%2Fyour-username%2Fyour-repo) 
-
 This is a modern AI chatbot featuring real-time conversations and responsive design.
 
 ![Chatbot Screenshot](https://github.com/Rajiunnabi/chatbot-assistant/blob/867ed0d9f1fe54ace07f7524606936c45cd4c55e/Screenshot%202025-06-24%20101843.png)
